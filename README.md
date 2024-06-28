@@ -1,6 +1,6 @@
 # obesity-project
 
-This My Obesity Project
+The objective of this project was to build a model that predicts the obesity classification of individuals based on various features such as gender, age, height, weight, eating habits, physical activity, and other lifestyle factors.
 
 Key aspects of my include:
 
